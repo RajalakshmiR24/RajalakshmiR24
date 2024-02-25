@@ -8,20 +8,19 @@
 
 <p align="left"> <a href="https://twitter.com/rajalakshmir" target="blank"><img src="https://img.shields.io/twitter/follow/rajalakshmir?logo=twitter&style=for-the-badge" alt="rajalakshmir" /></a> </p>
 
-- 🌱 I’m currently learning **React Native, Blockchain**
+- 🌱 I’m currently learning **React Native,**
 
 - 📫 How to reach me **rajalakshmi245806@gmail.com**
 
 - ⚡ Fun fact **I once spent an entire day debugging a program only to realize that the issue was caused by a missing semicolon. Lesson learned: always double-check your syntax! 😅**
 
-- ⚡ My favorite programming meme is the "Hello World" one where the developer misspells "World" as "Wrold". It reminds me to always double-check my code for silly mistakes! 😂
+- ⚡ My favorite programming meme is the "Hello World" one where the developer misspells "World" as "World". It reminds me to always double-check my code for silly mistakes! 😂
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rajalakshmir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajalakshmir" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/raja-lakshmi-154519204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raja-lakshmi-154519204" height="30" width="40" /></a>
-<a href="https://instagram.com/rajalaksmi_official_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajalaksmi_official_24" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rajalakshmi245" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rajalakshmi245" height="30" width="40" /></a>
+<a href="[https://instagram.com/rajalaksmi_official_24](https://www.instagram.com/rajalakshmi_official_24)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajalaksmi_official_24" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
