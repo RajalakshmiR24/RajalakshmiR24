@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="100" height="100" />
-</p>
+<div style="text-align:center;">
+    <img src="https://github.com/RajalakshmiR24/RajalakshmiR24/assets/127002476/06faed26-4d6b-4f95-a9a2-b6bb352fa8fe" alt="expologo">
+</div>
+
+
 </p><h1 align="center">Hi 👋, I'm Rajalakshmi R</h1>
 <h3 align="center">Passionate about web development and my goal is to secure a good position in the field of IT in a reputed organization which leads to my professional development and contribute towards the prosperity of the organization.</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIG.5M75X_08aQJuRr4RJDSq?pid=ImgGn">
