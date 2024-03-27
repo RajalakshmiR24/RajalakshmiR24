@@ -4,7 +4,7 @@
 
 
 </p><h1 align="center">Hi 👋, I'm Rajalakshmi R</h1>
-<h3 align="center">Passionate about web development and my goal is to secure a good position in the field of IT in a reputed organization which leads to my professional development and contribute towards the prosperity of the organization.</h3>
+<h3 align="center">Passionate front-end developer with expertise in HTML, CSS, JavaScript, React Native, Expo, and Next.js. Dedicated to creating engaging web and mobile interfaces and driving innovative projects. Seeking a position in IT to contribute to organizational prosperity and professional development.</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIG.5M75X_08aQJuRr4RJDSq?pid=ImgGn">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajalakshmir24&label=Profile%20views&color=0e75b6&style=flat" alt="rajalakshmir24" /> </p>
 
