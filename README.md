@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/rajalakshmir" target="blank"><img src="https://img.shields.io/twitter/follow/rajalakshmir?logo=twitter&style=for-the-badge" alt="rajalakshmir" /></a> </p>
 
-- 🌱 I’m currently learning **React Native,**
+- 🌱 I’m currently learning **React Native Expo,**
 
 - 📫 How to reach me **rajalakshmi245806@gmail.com**
 
