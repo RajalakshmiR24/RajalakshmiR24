@@ -7,7 +7,7 @@
 
 </p><h1 align="center">Hi 👋, I'm Rajalakshmi R</h1>
 <h3 align="center">Passionate front-end developer with expertise in HTML, CSS, JavaScript, React Native, Expo, and Next.js. Dedicated to creating engaging web and mobile interfaces and driving innovative projects. Seeking a position in IT to contribute to organizational prosperity and professional development.</h3>
-<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIG.5M75X_08aQJuRr4RJDSq?pid=ImgGn">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_90220-249.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajalakshmir24&label=Profile%20views&color=0e75b6&style=flat" alt="rajalakshmir24" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rajalakshmir" target="blank"><img src="https://img.shields.io/twitter/follow/rajalakshmir?logo=twitter&style=for-the-badge" alt="rajalakshmir" /></a> </p>
