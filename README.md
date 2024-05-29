@@ -30,7 +30,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
 
-<img src="https://skillicons.dev/icons?i=babel,bootstrap,css,figma,firebase,git,github,html,js,jquery,netlify,nextjs,nodejs,npm,react,redux,tailwind,threejs,vercel,vite,vscode,yarn" alt="RajalakshmiR24" /></p>
+<img src="https://skillicons.dev/icons?i=babel,bootstrap,css,figma,firebase,git,github,html,js,jquery,netlify,nextjs,nodejs,npm,react,redux,tailwind,threejs,vercel,vite,vscode,yarn,flutter" alt="RajalakshmiR24" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajalakshmir24&show_icons=true&locale=en&layout=compact" alt="rajalakshmir24" /></p>
 
