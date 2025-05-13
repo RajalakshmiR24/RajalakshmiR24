@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx28mg8aQ39CEGURVztotd5VC0bO7Ik-ZpBw&s" alt="Figma" width="250" height="160">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPnfj_PdfHzyNebKKRpuxJQw8267pRkP0Xog&s" alt="Mern Stack" width="250" height="160">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5_5OlDNfwxM_DOmrycgLuo4Pwx2teQrk3EQ&s" alt="Flutter" width="250" height="160">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx28mg8aQ39CEGURVztotd5VC0bO7Ik-ZpBw&s" alt="Figma" width="200" height="160">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPnfj_PdfHzyNebKKRpuxJQw8267pRkP0Xog&s" alt="Mern Stack" width="200" height="160">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5_5OlDNfwxM_DOmrycgLuo4Pwx2teQrk3EQ&s" alt="Flutter" width="200" height="160">
+  <img src="https://github.com/user-attachments/assets/3cb511ae-2ed6-4169-8991-ac57153bd9da" alt="Flutter" width="200" height="160">
 </p>
 
 
@@ -28,9 +29,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,threejs,bootstrap,tailwind,vite,babel,npm,yarn,nodejs,express,flask,python,flutter,figma,git,github,vercel,netlify" alt="RajalakshmiR24" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=babel,bootstrap,css,figma,firebase,git,github,html,js,jquery,netlify,nextjs,nodejs,npm,react,redux,tailwind,threejs,vercel,vite,vscode,yarn,flutter" alt="RajalakshmiR24" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajalakshmir24&show_icons=true&locale=en&layout=compact" alt="rajalakshmir24" /></p>
 
